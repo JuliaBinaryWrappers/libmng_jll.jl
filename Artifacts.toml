@@ -1,0 +1,143 @@
+[[libmng]]
+arch = "aarch64"
+git-tree-sha1 = "5be606db16c82b157be4a96facfc9e8886cf0288"
+os = "macos"
+
+    [[libmng.download]]
+    sha256 = "bb5f19963ac685531b42fe68c88082db09dd95abc2e22e992dd61ef735e903ee"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.aarch64-apple-darwin.tar.gz"
+[[libmng]]
+arch = "aarch64"
+git-tree-sha1 = "0e375366bb031d8d853788036dc5fb1db0545028"
+libc = "glibc"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "5f2cfd28193512d1031ad2e156926b0eeb300728640763accde2dfd05b83a310"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.aarch64-linux-gnu.tar.gz"
+[[libmng]]
+arch = "aarch64"
+git-tree-sha1 = "ea0de3766bc1894cdf5bf1c51a56375adb264a8c"
+libc = "musl"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "65ef2b8cee6bb79463f47d30642b114900b846c320ddb67c698b86ba79b7ff9c"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.aarch64-linux-musl.tar.gz"
+[[libmng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8d7b90c9db36884faed7b49163f8cac91ade40cf"
+libc = "glibc"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "57ebda2835e59beab151ab2956869e0b09deaf830ef0ab2597822336bd73756a"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.armv6l-linux-gnueabihf.tar.gz"
+[[libmng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "db02dbc5b05e7f673e56ea6138e91afe711623ad"
+libc = "musl"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "79a33f8dbbb16816d1dfd8c8f4aa9db21dba058d8f7e89b3bdca6a7fa5136056"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.armv6l-linux-musleabihf.tar.gz"
+[[libmng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a5c3de0528c2a8cb8ffdad5b5d1fe70f1f8a269d"
+libc = "glibc"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "4ca05b36546f8ba9e7af869d797ad5aa45063773ab547df8d8009858df65fbb5"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.armv7l-linux-gnueabihf.tar.gz"
+[[libmng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1146f01eb15f54f103e41e39d09e9b6feaadaaec"
+libc = "musl"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "66c8dc9b5229b1fbfe68815e1617d4a6d07455825406a2cc41ceeb462c5cd915"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.armv7l-linux-musleabihf.tar.gz"
+[[libmng]]
+arch = "i686"
+git-tree-sha1 = "3df457ba35e8f89465d057b797f83fcde75e5254"
+libc = "glibc"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "29e8679b67d4b76e2a710a5c042ba2270977bfc2caad6d68a05d0eb07b93abf5"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.i686-linux-gnu.tar.gz"
+[[libmng]]
+arch = "i686"
+git-tree-sha1 = "fcd764c59f1a08fce7c034b49bb19ec65041820b"
+libc = "musl"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "2ad4ca3fac80ee2386a9918be7af8f895653d19baa83c2b3533e8613ecb6a992"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.i686-linux-musl.tar.gz"
+[[libmng]]
+arch = "i686"
+git-tree-sha1 = "ece3cf510ea3197cc785fb53599f001db37ea438"
+os = "windows"
+
+    [[libmng.download]]
+    sha256 = "693c170278e96ecc977e524b08ed9b6bdfa7190d0fb039f9cb7a80d70d77809d"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.i686-w64-mingw32.tar.gz"
+[[libmng]]
+arch = "powerpc64le"
+git-tree-sha1 = "e2180c578cf6e60bde6c35acd4bd207d80b6b9d7"
+libc = "glibc"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "b4c353c87dafd0c095c148528dc2c3a62bc69a422b237e872cd9800dc0efd391"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.powerpc64le-linux-gnu.tar.gz"
+[[libmng]]
+arch = "x86_64"
+git-tree-sha1 = "a6bed17df55eae029a7f196b5ca26baeb36a17f9"
+os = "macos"
+
+    [[libmng.download]]
+    sha256 = "43cbfc790b3760dbad76e3607f1ffd2734e0cdefa41f594c46a911692630130d"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.x86_64-apple-darwin.tar.gz"
+[[libmng]]
+arch = "x86_64"
+git-tree-sha1 = "00f11f5263c09f94bf3d80f21594d22ac041c9a6"
+libc = "glibc"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "85925a6be895757a9ffc06cc18956701fd0e5869e2dbd41af67204ea46163e67"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.x86_64-linux-gnu.tar.gz"
+[[libmng]]
+arch = "x86_64"
+git-tree-sha1 = "29d333343f94977317c0f850152fe0c3e1dafad3"
+libc = "musl"
+os = "linux"
+
+    [[libmng.download]]
+    sha256 = "3da0f2fa9894a04ebcfbc68329a7d84ce959ad53bc32fefb43ee734380f7cb26"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.x86_64-linux-musl.tar.gz"
+[[libmng]]
+arch = "x86_64"
+git-tree-sha1 = "dd2aa3ec7694310dea2bf662676cc196b6943ab0"
+os = "freebsd"
+
+    [[libmng.download]]
+    sha256 = "6b012455334d6e6e3082aeea9bf10d99fc1a52516386b6cc665a66a2f9ce6331"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.x86_64-unknown-freebsd.tar.gz"
+[[libmng]]
+arch = "x86_64"
+git-tree-sha1 = "77c365c0465b391c2d49e597c70238b7657b8d5e"
+os = "windows"
+
+    [[libmng.download]]
+    sha256 = "7aa87916cc148e9b9341fb5e8816d45930db47cfc91ef76885be2a4333cd1ab0"
+    url = "https://github.com/JuliaBinaryWrappers/libmng_jll.jl/releases/download/libmng-v2.0.3+0/libmng.v2.0.3.x86_64-w64-mingw32.tar.gz"
